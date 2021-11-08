@@ -150,7 +150,7 @@ If you have a special interest in a different technology stack
 that could be used to implement the Pet Clinic then please join the community there.
 
 
-# Contributing
+# Contributing:
 
 The [issue tracker](https://github.com/spring-petclinic/spring-petclinic-microservices/issues) is the preferred channel for bug reports, features requests and submitting pull requests.
 
