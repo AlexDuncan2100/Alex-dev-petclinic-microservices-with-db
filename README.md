@@ -62,7 +62,7 @@ In its default configuration, Petclinic uses an in-memory database (HSQLDB) whic
 A similar setup is provided for MySql in case a persistent database configuration is needed.
 Dependency for Connector/J, the MySQL JDBC driver is already included in the `pom.xml` files.
 
-### Start a MySql database
+### Start a MySql databases
 
 You may start a MySql database with docker:
 
